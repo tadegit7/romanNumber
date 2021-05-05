@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrvfbU8qIKEiVbPZNxO6ifbnUnOJ9EbqAapSQTTmWUuebyW8+hq5VTQ6R7LtSzsdJtWZitfcpR06ig6V7clEvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tadesse.daba\\source\\repos\\RomanNumber\\RomanNumber\\RomanNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tadesse.daba\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

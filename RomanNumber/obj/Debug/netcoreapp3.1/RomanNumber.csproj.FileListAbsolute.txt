@@ -1,0 +1,13 @@
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\bin\Debug\netcoreapp3.1\RomanNumber.exe
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\bin\Debug\netcoreapp3.1\RomanNumber.deps.json
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\bin\Debug\netcoreapp3.1\RomanNumber.runtimeconfig.json
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\bin\Debug\netcoreapp3.1\RomanNumber.runtimeconfig.dev.json
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\bin\Debug\netcoreapp3.1\RomanNumber.dll
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\bin\Debug\netcoreapp3.1\RomanNumber.pdb
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\obj\Debug\netcoreapp3.1\RomanNumber.csprojAssemblyReference.cache
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\obj\Debug\netcoreapp3.1\RomanNumber.AssemblyInfoInputs.cache
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\obj\Debug\netcoreapp3.1\RomanNumber.AssemblyInfo.cs
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\obj\Debug\netcoreapp3.1\RomanNumber.csproj.CoreCompileInputs.cache
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\obj\Debug\netcoreapp3.1\RomanNumber.dll
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\obj\Debug\netcoreapp3.1\RomanNumber.pdb
+C:\Users\Tadesse.daba\source\repos\RomanNumber\RomanNumber\obj\Debug\netcoreapp3.1\RomanNumber.genruntimeconfig.cache
